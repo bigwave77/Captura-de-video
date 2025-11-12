@@ -1,2 +1,3 @@
 # Captura-de-video
-Vision y Animacion por Computadora
+Se requieren los modulos de OpenCV-Python y Numpy.
+Las imagenes y videos deben estar en la misma ruta.
